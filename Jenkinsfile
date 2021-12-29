@@ -3,8 +3,8 @@ pipeline {
     
     environment {
         
-        dotnet='C:\\Program Files (x86)\\dotnet'
-        awscli = "C:\\Program Files\\Amazon\\AWSCLIV2\\awscli"
+        dotnet='C:\Program Files\dotnet'
+        awscli = "C:\Program Files\Amazon\AWSCLIV2"
     }
 
     stages {
